@@ -1,16 +1,16 @@
 ---
-name: Tails Azimuth
+name: Rey Mar Gualvez
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Software Developer
+company:
+email: gualvezreymar@gmail.com
+twitter: https://twitter.com/thebro_code97
+linkedin: https://www.linkedin.com/in/rey-mar-gualvez-644548173/
+github: https://github.com/rg27
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Hey, I’m Rey Mar. I am working at Office Partners 360 as a Web and Zoho Developer. I also create projects or any applications regarding machine learning and Internet of Things(IOT).
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+I learned hardware and software troubleshooting on my first internship at Cebu SmartBuild, an IT company in Cebu which specializes in networking products, FDAs and other technical process or solutions involving technology. After Cebu SmartBuild, I got my first shot in web development as web developer intern for almost 3 months at Getmore Philippines where I got a chance to work on Ruby-on-Rails and Ember.js, a web framework, and able to used bitbucket and github as a requirement for version control. I was hired by Office Partners 360 as a fulltime web developer and part of the admin team. OP360 gives me an opportunity to explore, learn and integrate different technologies from Low Code platform to web frameworks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am both driven, self-motivated, and strive to be better developer by experimenting with new technologies and techniques especially in web development. When I was not glued in my laptop, I spends time biking and jogging.

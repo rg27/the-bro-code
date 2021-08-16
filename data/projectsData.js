@@ -1,17 +1,13 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
+    title: 'Aenean sollicitudin',
+    description: `Quisque sed venenatis leo. Phasellus ornare magna non nulla rhoncus, quis sollicitudin nisi viverra.`,
     imgSrc: '/static/images/google.png',
     href: 'https://www.google.com',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten handphones with this simple yet affordable solution.`,
+    title: 'Vivamus consectetur',
+    description: `Vivamus consectetur odio at erat blandit mattis. Phasellus ac iaculis orci. Morbi in tempus purus. In sed molestie mi. Morbi a nisl enim. Sed ut ex maximus, molestie elit convallis, pulvinar nisi. `,
     imgSrc: '/static/images/time-machine.jpg',
     href: '/blog/the-time-machine',
   },

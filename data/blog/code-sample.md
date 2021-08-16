@@ -1,9 +1,9 @@
 ---
-title: Sample .md file
+title: Nullam viverra luctus tristique. Sed eget malesuada diam
 date: '2016-03-08'
 tags: ['markdown', 'code', 'features']
 draft: false
-summary: Example of a markdown file with code blocks and syntax highlighting
+summary: sollicitudin dapibus mi, id euismod felis dictum nec. Fusce in eros erat. Morbi ac consequat nulla. Aenean at feugiat arcu. Nulla mattis ligula a fermentum facilisis.
 ---
 
 A sample post with markdown.

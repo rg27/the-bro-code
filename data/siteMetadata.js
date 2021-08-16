@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Rey Mar Gualvez',
   author: 'Rey Mar Gualvez',
-  headerTitle: 'The Bro Code',
+  headerTitle: 'Rey Mar Gualvez',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   siteUrl: 'reymargualvez@vercel.app',
